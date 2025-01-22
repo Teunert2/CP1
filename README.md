@@ -14,14 +14,7 @@ Ons bedrijf is opgebouwd uit vijf pijlers:
 - **Training**: Trainingen voor marketeers over dataverzameling.  
 
 ## Wat ik heb gedaan  
-
-Voor het ontwikkelen van deze service heb ik gewerkt aan de volgende onderdelen:  
-- **Servicepricing**: Prijzen gestructureerd en inzichtelijk gemaakt.  
-- **Service-package**: Servicepakketten opgezet met bijbehorende details.  
-- **Service-intro**: Introductietekst voor elke service geschreven.  
-- **Service-body**: Uitgebreide beschrijving van de services in meerdere lagen uitgewerkt.  
-
-Elk van deze onderdelen heeft een eigen branch, die je hier kunt vinden:  
+ 
 - [Servicepricing Branch](https://github.com/gebruikersnaam/projectnaam/tree/servicepricing)  
 - [Service-package Branch](https://github.com/gebruikersnaam/projectnaam/tree/service-package)  
 - [Service-intro Branch](https://github.com/gebruikersnaam/projectnaam/tree/service-intro)  
