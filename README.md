@@ -16,12 +16,12 @@ Ons bedrijf is opgebouwd uit vijf pijlers:
 ## Wat ik heb gedaan  
 
 - [Servicepricing Branch](https://github.com/Teunert2/CP1/tree/main/code/servicepricing)  
-- [Serviceoptimalisation-footer Branch](https://github.com/Teunert2/CP1/tree/main/code/serviceoptimalisation_footer)  
-- [Service-package Branch](https://github.com/Teunert2/CP1/tree/main/code/service-package)  
-- [Service-intro Branch](https://github.com/Teunert2/CP1/tree/main/code/service-intro)  
-- [Service-body Branch](https://github.com/Teunert2/CP1/tree/main/code/service-body)  
-- [Service-body2 Branch](https://github.com/Teunert2/CP1/tree/main/code/service-body2)  
-- [Service-body3 Branch](https://github.com/Teunert2/CP1/tree/main/code/service-body3)  
+- [Serviceoptimalisation-footer Branch](https://github.com/Teunert2/CP1/tree/main/code/Serviceoptimalisation_footer)  
+- [Service-package Branch](https://github.com/Teunert2/CP1/tree/main/code/servicepackage)  
+- [Service-intro Branch](https://github.com/Teunert2/CP1/tree/main/code/serviceintro)  
+- [Service-body Branch](https://github.com/Teunert2/CP1/tree/main/code/servicebody)  
+- [Service-body2 Branch](https://github.com/Teunert2/CP1/tree/main/code/servicebody2)  
+- [Service-body3 Branch](https://github.com/Teunert2/CP1/tree/main/code/servicebody3)  
 
 ## Links naar de gehele projectomgeving  
 
