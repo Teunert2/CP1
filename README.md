@@ -14,10 +14,21 @@ Ons bedrijf is opgebouwd uit vijf pijlers:
 - **Training**: Trainingen voor marketeers over dataverzameling.  
 
 ## Wat ik heb gedaan  
- 
-- [Servicepricing Branch](https://github.com/gebruikersnaam/projectnaam/tree/servicepricing)  
-- [Service-package Branch](https://github.com/gebruikersnaam/projectnaam/tree/service-package)  
-- [Service-intro Branch](https://github.com/gebruikersnaam/projectnaam/tree/service-intro)  
-- [Service-body Branch](https://github.com/gebruikersnaam/projectnaam/tree/service-body)  
-- [Service-body2 Branch](https://github.com/gebruikersnaam/projectnaam/tree/service-body2)  
-- [Service-body3 Branch](https://github.com/gebruikersnaam/projectnaam/tree/service-body3)  
+
+- [Servicepricing Branch](https://github.com/Teunert2/CP1/tree/main/code/Servicepricing)  
+- [Serviceoptimalisation-footer Branch](https://github.com/Teunert2/CP1/tree/main/code/Serviceoptimalisation_footer)  
+- [Service-package Branch](https://github.com/Teunert2/CP1/tree/main/code/Service-package)  
+- [Service-intro Branch](https://github.com/Teunert2/CP1/tree/main/code/Service-intro)  
+- [Service-body Branch](https://github.com/Teunert2/CP1/tree/main/code/Service-body)  
+- [Service-body2 Branch](https://github.com/Teunert2/CP1/tree/main/code/Service-body2)  
+- [Service-body3 Branch](https://github.com/Teunert2/CP1/tree/main/code/Service-body3)  
+
+## Links naar de gehele projectomgeving  
+
+- **GitHub Repository**: [upendo GitHub Repository](https://github.com/TNDKien/upendo)  
+- **Gehele Website**: [upendo Website](https://fontys-upendo.vercel.app/)  
+
+### Pagina's die ik heb gemaakt  
+- [Configuratie](https://fontys-upendo.vercel.app/configuration)  
+- [Optimalisatie](https://fontys-upendo.vercel.app/optimalisation)  
+- [Visualisatie](https://fontys-upendo.vercel.app/visualisation)  
