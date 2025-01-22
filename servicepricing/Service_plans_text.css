@@ -1,0 +1,24 @@
+.servicetext {
+    margin-left: 25px;
+    margin-top: 48px;
+}
+
+.servicelink {
+    margin-left: 25px;
+}
+
+
+@media (min-width: 1200px) {
+    .text_service_blok {
+        margin-left: 120px;
+    }
+
+    .servicetext {
+        font-size: 20px;
+    }
+
+    .servicelink {
+        font-size: 32px;
+        margin-top: 72px;
+    }
+}

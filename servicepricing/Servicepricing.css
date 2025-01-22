@@ -1,0 +1,248 @@
+.servicepricing_blok_sub_5 {
+  width: 800px;
+  margin-left: 100px;
+}
+
+.flexbox-column {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  padding: 0 10px;
+  box-sizing: border-box;
+}
+
+.flexboxrow-premium {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+
+.servicepricing_blok {
+  width: 336px;
+  height: 99px;
+  border-radius: 10px 0px 10px 10px;
+  background: var(--Dark-Teal, #003a47);
+  margin-top: 16px;
+  margin-left: 1.5rem;
+  margin-bottom: 16px;
+}
+
+.servicepricing_blok_title {
+  padding-top: 8px;
+  margin-left: 10px;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  display: inline-block;
+  color: #f4c5ff;
+}
+
+.servicepricing_blok_img {
+  margin-top: 12px;
+  margin-left: 8px;
+  width: 16px;
+  height: 16px;
+}
+
+.servicepricing_blok_sub {
+  width: 500px;
+  margin-top: 10px;
+  margin-left: 9px;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  font-size: 12px;
+  color: #f4c5ff;
+}
+
+.servicepricing_blok_price {
+  width: 81px;
+  height: 40px;
+  flex-shrink: 0;
+  border-radius: 0px 0px 0px 20px;
+  background: var(--Pink, #f4c5ff);
+  margin-top: -31px;
+  margin-right: -23.5px;
+}
+
+.servicepricing_blok_price_tekst {
+  color: #003a47;
+  font-family: "area-normal", sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 24px;
+  z-index: 1;
+  position: relative;
+  text-align: center;
+  margin-top: 8px;
+}
+
+.servicepricing_footer_tekst {
+  margin-left: 271px;
+  font-family: "Inter", sans-serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  text-decoration-line: underline;
+}
+
+.servicepricing_blok_basic {
+  width: 336px;
+  height: 99px;
+  border-radius: 10px 0px 10px 10px;
+  background: var(--Pink, #f4c5ff);
+  margin-top: 16px;
+  /* Of verwijder deze regel als je geen extra ruimte bovenaan wilt */
+  margin-left: 1.5rem;
+  margin-bottom: 16px;
+}
+
+.servicepricing_blok_premium {
+  width: 336px;
+  height: 135px;
+  border-radius: 10px 0px 10px 10px;
+  background: var(--Pink, #f4c5ff);
+  margin-top: 16px;
+  /* Of verwijder deze regel als je geen extra ruimte bovenaan wilt */
+  margin-left: 1.5rem;
+  margin-bottom: 16px;
+}
+
+.servicepricing_blok_title_basic {
+  padding-top: 8px;
+  margin-left: 10px;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  display: inline-block;
+  color: #003a47;
+}
+
+.flexboxrow {
+  display: flex;
+  flex-direction: row;
+  width: 312px;
+}
+
+/* Voeg dit toe aan je bestaande CSS */
+/* Algemene stijl voor alle sub-blokken om dezelfde breedte te hebben */
+.servicepricing_blok_sub_basic,
+.servicepricing_blok_sub_5,
+.servicepricing_blok_sub_6 {
+  color: #003a47;
+  width: 336px;
+  margin-top: 10px;
+  margin-left: 10px;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  font-size: 12px;
+}
+
+/* Zorg dat afbeeldingen in de flexbox niet groter zijn dan nodig */
+.servicepricing_blok_img_premium {
+  margin-top: 12px;
+  width: 16px;
+  height: 16px;
+}
+
+.servicepricing_blok_img_premium_2 {
+  margin-top: 12px;
+  width: 16px;
+  height: 16px;
+  margin-left: 10px;
+}
+
+.servicepricing_blok_img_premium_3 {
+  margin-top: 12px;
+  width: 16px;
+  height: 16px;
+  margin-left: -10px;
+}
+
+.servicepricing_blok_sub_5,
+.servicepricing_blok_sub_6 {
+  margin-left: 9px;
+  /* Pas deze waarde aan om ze verder naar rechts te plaatsen */
+}
+
+.flexboxrow-premium .servicepricing_blok_sub_5 {
+  margin-right: 20px;
+  /* Zorgt voor extra ruimte tussen 5 en 6 */
+}
+
+.servicepricing_blok_price_basic {
+  width: 81px;
+  height: 40px;
+  flex-shrink: 0;
+  border-radius: 0px 0px 0px 20px;
+  background: var(--Light-Lime, #eaffbd);
+  margin-top: -31px;
+  margin-right: -23.5px;
+}
+
+.servicepricing_blok_price_premium {
+  position: absolute;
+  width: 81px;
+  height: 40px;
+  flex-shrink: 0;
+  border-radius: 0px 0px 0px 20px;
+  background: var(--Light-Lime, #eaffbd);
+  margin-left: 244.5px;
+  margin-top: -31px;
+}
+
+.service_optimalisation_monthly {
+  padding-left: 0;
+}
+
+.servicepricing_blok_price_tekst {
+  font-family: "area-normal", sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 24px;
+  z-index: 1;
+  position: relative;
+  text-align: center;
+  margin-top: 8px;
+}
+
+.flexbox-container {
+  display: flex;
+
+  /* Zorgt voor ruimte tussen de kolommen */
+}
+
+@media (min-width: 1200px) {
+  .service_optimalisation_monthly {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 100px;
+  }
+
+  .service_optimalisation {
+    margin-top: 100px;
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .servicepricing_title {
+    margin-left: 120px;
+    margin-top: 40px;
+  }
+
+  .servicepricing_blok {
+    margin-left: 100px;
+  }
+
+  .servicepricing_blok_basic {
+    margin-left: 100px;
+  }
+
+  .servicepricing_blok_premium {
+    margin-left: 100px;
+  }
+}
